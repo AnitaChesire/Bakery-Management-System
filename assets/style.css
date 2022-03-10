@@ -1,0 +1,43 @@
+body{
+    background-color: #ffffff;
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color: #fff;
+}
+.navbar-nav a{
+    color: #000;
+    font-size: 18px;
+}
+.navbar-nav a:hover{
+    color: #f05a2b;
+}
+.hero{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    background-attachment: fixed;
+}
+.hero-btn{
+    border: none;
+    padding: 11px 32px 11px 32px;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+.hero-btn:hover{
+    border: 1px solid #fff;
+    color: #fff;
+    background: none;
+}
+button:focus{
+    outline: none;
+}
+.hero-text .main{
+    font-size: 70px; 
+    line-height: 55px; 
+    font-weight: 300;
+    color: #fff;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: #ffffff;
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color: #fff;
+}
+.navbar-nav a{
+    color: #000;
+    font-size: 18px;
+}
+.navbar-nav a:hover{
+    color: #f05a2b;
+}
